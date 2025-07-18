@@ -1,0 +1,2 @@
+from atalhos import *
+menu()
